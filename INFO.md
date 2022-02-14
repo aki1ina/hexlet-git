@@ -1,2 +1,3 @@
 git is awesome!
 git is awesome yet!
+new line
